@@ -1,4 +1,4 @@
-# Pointer
+# Pointers
 
 An example of how to use pointers basically in C++.
 
